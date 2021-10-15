@@ -15,4 +15,10 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
--->
+
+              
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbrangeo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrangeo)](https://github.com/anuraghazra/github-readme-stats)
+               
+               
