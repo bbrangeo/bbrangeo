@@ -10,7 +10,7 @@
   💬 Skills: <br>
       &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>Python, Spark, Hadoop,  PyTorch, HTML, CSS, JavaScript, PHP, Java and SQL.</strong> <br>
       &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>ReactJS, Electron, and Bootstrap.</strong> <br>
-      &nbsp;&nbsp; :arrow_forward:	Database: <strong>MopngoDB, MySQL, PostgreSQL.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Database: <strong>MongoDB, MySQL, PostgreSQL.</strong> <br>
 </p>
 
 - 🔭 I’m currently working on ...
