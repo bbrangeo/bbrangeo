@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  <img src="https://giphy.com/gifs/rainbow-computer-data-UEGwYCVTBFa9tJEf66" height="30px width="30px" >
+  <img src="https://media.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif" height="30px width="30px" >
   Hi, my name is Boris 🌱
 </p>
 
